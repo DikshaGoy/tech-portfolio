@@ -13,7 +13,7 @@ const users = [];
 
 const siteConfig = {
     title: 'Diksha Goyal', // Title for your website.
-    tagline: 'Software Engineer, Learner, Knowledge-seeker',
+    tagline: 'Software Engineer @Microsoft, Knowledge-seeker, Music Lover',
     profilePhoto: 'img/profile.png',
     url: 'https://dikshagoyal.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
